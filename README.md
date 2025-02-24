@@ -56,4 +56,4 @@ SEO-friendly
 For more information or inquiries, feel free to reach out to me:
 
 Email: jamalmohafi1@gmail.com
-Twitter: @Jamal_Mohafil
+Twitter: [@Jamal_Mohafil](https://x.com/Jamal_Mohafil)
