@@ -1,72 +1,58 @@
-# موقع Jamal Mohafil الشخصي 
+# Jamal Mohafil Personal Portfolio
 
-هذا المشروع عبارة عن موقع بورتفوليو شخصي تم تطويره باستخدام Next.js 14. يعرض الموقع مهاراتي وأعمالي ومشاريعي في مجال تطوير الويب.
+This is a **personal portfolio website** built with **Next.js 14**. The site showcases my skills, projects, and work in web development.
 
-## 🎥 فيديو شرح المشروع
+## 🎥 Project Tutorial Video
 
-لقد قمت بإنشاء [فيديو تعليمي](https://www.youtube.com/@jamal_mohafil) يشرح بالتفصيل كيفية بناء هذا المشروع وكيفية استخدام الكود.
+I created a [tutorial video](RANDOM_VIDEO_LINK) explaining in detail how this project was built and how to use the code.
 
-## 🔗 روابط التواصل الاجتماعي
+## 🔗 Important Links
 
-- [يوتيوب](https://www.youtube.com/@jamal_mohafil)
-- [لينكد إن](https://www.linkedin.com/in/jamal-mohafil/)
-- [جيتهب](https://github.com/JamalMohafil)
-- [تويتر](https://x.com/Jamal_Mohafil)
-- [انستغرام](https://instagram.com/jamal_mohafil)
+- [YouTube Channel](https://www.youtube.com/@jamal_mohafil)
+- [LinkedIn Profile](https://www.linkedin.com/in/jamal-mohafil/)
+- [GitHub Repository](https://github.com/JamalMohafil)
+- [Twitter Profile](https://x.com/Jamal_Mohafil)
+- [Instagram Profile](https://www.instagram.com/jamal_mohafil)
 
-## 🚀 كيفية تشغيل المشروع
+## 🚀 How to Run the Project
 
-1. قم بنسخ المستودع:
-```bash
-git clone https://github.com/JamalMohafil/portofolio-template.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JamalMohafil/portofolio-template.git
+Install dependencies:
 
-قم بتثبيت التبعيات:
-
-bashCopynpm install
-# أو
+bash
+Kopyala
+Düzenle
+npm install
+# or
 yarn install
+Run the development server:
 
-قم بتشغيل خادم التطوير:
-
-bashCopynpm run dev
-# أو
+bash
+Kopyala
+Düzenle
+npm run dev
+# or
 yarn dev
+Open http://localhost:3000 in your browser to see the result.
 
-افتح http://localhost:3000 في متصفحك لمشاهدة النتيجة.
-
-💻 التقنيات المستخدمة
-
+💻 Technologies Used
 Next.js 14
 React
 TypeScript
 Tailwind CSS
+📝 How to Customize
+To update the information on the site, go to the data/index.ts file. Any changes you make will be automatically reflected on the page.
 
-📝 كيفية تخصيص الموقع
+🌟 Features
+Modern and clean design
+Fast loading times
+Smooth user experience
+Responsive design for all devices
+SEO-friendly
+📱 Contact
+For more information or inquiries, feel free to reach out to me:
 
-قم بفتح ملف data/index.ts
-قم بتعديل المعلومات الموجودة فيه حسب بياناتك الشخصية
-يمكنك تعديل:
-
-المعلومات الشخصية
-المهارات
-المشاريع
-التجارب
-وكل المحتوى الآخر
-
-
-
-يمكنك أيضاً البدء في تعديل الصفحات عن طريق تغيير الملفات في مجلد app. سيتم تحديث الصفحة تلقائياً أثناء التعديل.
-🌟 المميزات
-
-تصميم حديث وجذاب
-سرعة في التحميل
-تجربة مستخدم سلسة
-تصميم متجاوب مع جميع الأجهزة
-SEO friendly
-سهولة التخصيص عبر ملف البيانات
-مبني بأحدث إصدار من Next.js
-
-📱 التواصل
-للمزيد من المعلومات أو الاستفسارات، يمكنك التواصل معي عبر أي من منصات التواصل الاجتماعي المذكورة أعلاه.
-📄 الترخيص
-هذا المشروع مرخص تحت MIT License
+Email: [your_email@example.com]
+Twitter: @Jamal_Mohafil
