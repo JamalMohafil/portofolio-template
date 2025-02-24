@@ -2,9 +2,6 @@
 
 This is a **personal portfolio website** built with **Next.js 14**. The site showcases my skills, projects, and work in web development.
 
-## 🎥 Project Tutorial Video
-
-I created a [tutorial video](RANDOM_VIDEO_LINK) explaining in detail how this project was built and how to use the code.
 
 ## 🔗 Important Links
 
