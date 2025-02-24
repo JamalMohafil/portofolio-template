@@ -1,58 +1,70 @@
-# Jamal Mohafil Personal Portfolio
+Jamal Mohafil Personal Portfolio
+This is a personal portfolio website built with Next.js 14. The site showcases my skills, projects, and work in web development.
+🎥 Project Tutorial Video
+I created a tutorial video explaining in detail how this project was built and how to use the code.
+🔗 Important Links
 
-This is a **personal portfolio website** built with **Next.js 14**. The site showcases my skills, projects, and work in web development.
+YouTube Channel
+LinkedIn Profile
+GitHub Repository
+Twitter Profile
+Instagram Profile
 
-## 🎥 Project Tutorial Video
+🚀 How to Run the Project
 
-I created a [tutorial video](RANDOM_VIDEO_LINK) explaining in detail how this project was built and how to use the code.
+Clone the repository:
 
-## 🔗 Important Links
+bashCopygit clone https://github.com/JamalMohafil/portofolio-template.git
 
-- [YouTube Channel](https://www.youtube.com/@jamal_mohafil)
-- [LinkedIn Profile](https://www.linkedin.com/in/jamal-mohafil/)
-- [GitHub Repository](https://github.com/JamalMohafil)
-- [Twitter Profile](https://x.com/Jamal_Mohafil)
-- [Instagram Profile](https://www.instagram.com/jamal_mohafil)
-
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JamalMohafil/portofolio-template.git
 Install dependencies:
 
-bash
-Kopyala
-Düzenle
-npm install
+bashCopynpm install
 # or
 yarn install
+
 Run the development server:
 
-bash
-Kopyala
-Düzenle
-npm run dev
+bashCopynpm run dev
 # or
 yarn dev
+
 Open http://localhost:3000 in your browser to see the result.
 
 💻 Technologies Used
+
 Next.js 14
 React
 TypeScript
 Tailwind CSS
-📝 How to Customize
-To update the information on the site, go to the data/index.ts file. Any changes you make will be automatically reflected on the page.
 
+📝 How to Customize
+To update the information on the site:
+
+Navigate to data/index.ts
+Modify the data according to your needs:
+
+Personal information
+Skills & expertise
+Projects showcase
+Work experience
+Contact details
+
+
+
+The site will automatically update with your changes.
 🌟 Features
+
 Modern and clean design
 Fast loading times
 Smooth user experience
 Responsive design for all devices
 SEO-friendly
-📱 Contact
-For more information or inquiries, feel free to reach out to me:
+Easy customization through data file
+Built with the latest Next.js 14
 
-Email: [your_email@example.com]
+📱 Contact
+For more information or inquiries, reach me through:
+
 Twitter: @Jamal_Mohafil
+Email: [your_email@example.com]
+Any of the social media platforms linked above
