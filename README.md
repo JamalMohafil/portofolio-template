@@ -21,14 +21,14 @@ I created a [tutorial video](RANDOM_VIDEO_LINK) explaining in detail how this pr
    git clone https://github.com/JamalMohafil/portofolio-template.git
 Install dependencies:
 
-```bash
+bash
 
 npm install
 # or
 yarn install
 Run the development server:
 
-```bash
+bash
 
 npm run dev
 # or
@@ -36,6 +36,9 @@ yarn dev
 Open http://localhost:3000 in your browser to see the result.
 
 💻 Technologies Used
+bash
+Kopyala
+Düzenle
 Next.js 14
 React
 TypeScript
@@ -52,5 +55,5 @@ SEO-friendly
 📱 Contact
 For more information or inquiries, feel free to reach out to me:
 
-Email: [jamalmohafi1@gmail.com]
+Email: jamalmohafi1@gmail.com
 Twitter: @Jamal_Mohafil
